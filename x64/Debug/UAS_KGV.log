@@ -1,0 +1,19 @@
+﻿  Circle.cpp
+C:\Users\irfan\Downloads\UAS_KGV\Circle.h(18,18): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\irfan\Downloads\UAS_KGV\Circle.cpp(12,47): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\irfan\Downloads\UAS_KGV\Circle.cpp(31,76): warning C4244: 'argument': conversion from 'double' to 'GLsizeiptr', possible loss of data
+C:\Users\irfan\Downloads\UAS_KGV\Circle.cpp(35,64): warning C4244: 'argument': conversion from 'double' to 'GLsizeiptr', possible loss of data
+C:\Users\irfan\Downloads\UAS_KGV\Circle.cpp(47,37): warning C4244: 'argument': conversion from 'double' to 'GLsizei', possible loss of data
+  Hexagram.cpp
+  UAS_KGV.cpp
+C:\Users\irfan\Downloads\UAS_KGV\Circle.h(18,18): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\irfan\Downloads\UAS_KGV\UAS_KGV.cpp(42,21): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\irfan\Downloads\UAS_KGV\UAS_KGV.cpp(417,34): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Shape.cpp
+  Square.cpp
+  Triangle.cpp
+  Generating Code...
+glew32s.lib(glew.obj) : warning LNK4099: PDB 'vc120.pdb' was not found with 'glew32s.lib(glew.obj)' or at 'C:\Users\irfan\Downloads\UAS_KGV\x64\Debug\vc120.pdb'; linking object as if no debug info
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+LINK : warning LNK4098: defaultlib 'LIBCMT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  UAS_KGV.vcxproj -> C:\Users\irfan\Downloads\UAS_KGV\x64\Debug\UAS_KGV.exe
